@@ -78,13 +78,13 @@
                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
                 </div>
                 <div class="carousel-inner">
-                  <div class="carousel-item active" style="background-image: url(img/1.jpg)">
+                  <div class="carousel-item active" style="background-image: url(1.jpg)">
                     
                   </div>
-                  <div class="carousel-item" style="background-image: url(img/3.png)">
+                  <div class="carousel-item" style="background-image: url(3.png)">
                     
                   </div>
-                  <div class="carousel-item" style="background-image: url(img/5.png)">
+                  <div class="carousel-item" style="background-image: url(5.png)">
                     
                   </div>
                 </div>
