@@ -28,7 +28,7 @@
                 <div class="collapse navbar-collapse" id="contenidoMenu">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a href="Inicio.html" class="nav-link">Inicio</a>
+                            <a href="index.html" class="nav-link">Inicio</a>
                         </li>
                         <li class="nav-item">
                             <a href="Sobre-Mí.html" class="nav-link">Sobre Mí</a>
