@@ -1,11 +1,11 @@
 
 
-.carousel-item{
+/*.carousel-item{
     height: 30rem;
     background-color: black;
     background-position: center;
     background-size: cover;
-}
+}*/
 
 @media all and (min-width: 992px) {
 	.navbar .nav-item .dropdown-menu{ display: none; }
@@ -13,11 +13,4 @@
 	.navbar .nav-item .dropdown-menu{ margin-top:0; }
 }
 
-.slide{
-	margin-top: 10px;
-}
 
-.slide img{
-	height: 65vh;
-	max-width: 300px;
-}	
