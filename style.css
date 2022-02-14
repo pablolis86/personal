@@ -19,5 +19,5 @@
 
 .slide img{
 	height: 65vh;
-	width: auto;
+	max-width: 300px;
 }	
